@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 20px;
+
+}
+body{
+    background-image:url("./image.jpeg") ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.quote-box{
+    background-color: rgb(255, 255, 255);
+    width: 600px;
+    padding: 40px;
+    text-align: center;
+
+}
+.quotation-mark{
+    font-size: 2em;
+}
+
+blockquote{
+    font-size: 2em;
+    
+}
+
